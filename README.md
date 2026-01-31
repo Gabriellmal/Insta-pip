@@ -48,6 +48,6 @@ bs4 → beautifulsoup4
 
 📄 License
 
-This project is open-source and available under the MIT License.
+This project is usuing devloper License.
 
 Created with ❤️ to help Python developers code faster.
