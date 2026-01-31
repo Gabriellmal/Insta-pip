@@ -1,5 +1,5 @@
 # Security Policy
-use it as you like but mention me (https://github.com/Gabriellmal)  and my frined ()
+use it as you like but mention me (https://github.com/Gabriellmal)  and my frined (https://github.com/joudhanna10)
 ## Supported Versions
 
 
